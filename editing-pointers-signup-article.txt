@@ -1,0 +1,13 @@
+1. include 'immediately' word in the 'verify mail' section 
+
+2. modify 'Generate More Leads' goal name to goal option in 'select goal type' section
+
+3. finally, modify image sizes and bold important text [like when mentioning screen options] 
+
+	- specify screen names of the options in set up your basic account section ! important !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+This is where video embed code should go
+
+<div style=" position: relative; padding-bottom: 56.25%; height: 0; border-radius: 0; box-shadow: 0 15px 40px rgba(63,58,79,.3); overflow: hidden; min-width:320px"><iframe src="https://trainmo.trainn.co/share/VrBwWx2E55njhyHT6NIqgg/embed?autoplay=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="autoplay; fullscreen" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+

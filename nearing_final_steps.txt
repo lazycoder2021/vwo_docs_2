@@ -1,0 +1,22 @@
+faqs 
+
+    1. can i customize smartcode
+
+    2. should i include smartcode on each and every page of my website
+
+    3. can i place smartcode snippet at the bottom of the html page? 
+
+    4. can i use synchronous smartcode? 
+
+    5. what if I don't know the technical know how of installing smartcode? 
+
+
+smartcode basic explanation section
+
+index page (my own styled page) 
+
+proofreading 
+
+publishing
+
+final mail drafting
